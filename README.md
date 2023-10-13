@@ -3,7 +3,7 @@
 
 ---
 
-# CSE221-Fall23 Respiratory Project Read-Me
+
 
 Welcome to the CSE221-Fall23 Respiratory Project! Please take note of the following guidelines:
 
