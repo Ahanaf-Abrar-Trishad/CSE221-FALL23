@@ -8,7 +8,7 @@ for i in range(int(x)):
     arr = list(map(int,(ipt_file.readline().strip().split())))
     new_arr.append(arr)
 
-# Bubble sort based on the second element of each sublist
+# Bubble sort based on the first element of each sublist
 for i in range(int(x)- 1):
     for j in range(int(x) - 1 - i):
         if new_arr[j][0] > new_arr[j + 1][0]:
