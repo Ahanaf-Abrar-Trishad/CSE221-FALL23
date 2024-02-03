@@ -1,0 +1,34 @@
+# Define the BTree class
+class BTree:
+    # Complete the constructor
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+
+# Define the is_duplicate function
+def is_duplicate(root, hash_table):
+    # Base case: if the root is None, return False
+    if root is None:
+        return False
+    # Check if the root's value is already in the hash table
+    if root.value in hash_table:
+        # If yes, return True
+        return True
+    else:
+        # If no, add the root's value to the hash table
+        hash_table.add(root.value)
+        # Recursively check the left and right subtrees
+        return (
+            is_duplicate(root.left, hash_table) or
+            is_duplicate(root.right, hash_table)
+        )
+# Example usage
+tree_root = BTree(1)
+tree_root.left = BTree(2)
+tree_root.right = BTree(3)
+tree_root.left.left = BTree(4)
+
+hash_set = set()
+result = is_duplicate(tree_root, hash_set)
+print(result)
