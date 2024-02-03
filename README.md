@@ -1,11 +1,10 @@
-# CSE221-FALL23
-
+# are egula kichu na hudai poiren naa...ber hon respo thaika
 
 ---
 
 
 
-Welcome to the CSE221-Fall23 Respiratory Project! Please take note of the following guidelines:
+Welcome to the c c c Respiratory Project! Please take note of the following guidelines:
 
 1. **Originality:** Avoid plagiarism by creating your work from scratch. Or you'll get 0 in lab work.
 
@@ -19,6 +18,6 @@ Welcome to the CSE221-Fall23 Respiratory Project! Please take note of the follow
 
 6. **Contact Instructor:** If you encounter difficulties or have questions, don't hesitate to reach out to the instructor promptly.
 
-Best of luck with your 221 course!
+Best of luck with your churichamari!
 
 ---
