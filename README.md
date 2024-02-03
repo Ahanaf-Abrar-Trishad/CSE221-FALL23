@@ -18,6 +18,6 @@ Welcome to the c c c Respiratory Project! Please take note of the following guid
 
 6. **Contact Instructor:** If you encounter difficulties or have questions, don't hesitate to reach out to the instructor promptly.
 
-Best of luck with your churichamari!
+Best of luck!
 
 ---
